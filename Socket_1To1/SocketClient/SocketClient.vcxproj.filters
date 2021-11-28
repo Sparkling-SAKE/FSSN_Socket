@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="SocketClient.cpp">
+    <ClCompile Include="lec-03-prg-02-tcp-echo-client.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

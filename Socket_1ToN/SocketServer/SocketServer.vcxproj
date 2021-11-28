@@ -140,7 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Socket.cpp" />
-    <ClCompile Include="SocketServer.cpp" />
+    <ClCompile Include="lec-03-prg-06-tcp-echo-server-multithread.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Socket.h" />

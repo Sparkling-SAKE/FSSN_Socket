@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="lec-03-prg-03-tcp-echo-server-complete.cpp">
+    <ClCompile Include="lec-03-prg-09-udp-echo-client-multithread.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
