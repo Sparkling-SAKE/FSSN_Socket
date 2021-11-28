@@ -11,11 +11,11 @@ Socket_1To1_ExceptionHandling
 
 Socket_1To1_ExceptionHandling_NonBlocking
  - lec-03-prg-05-tcp-echo-server-socketserver
- - lec-03-prg-05-tcp-echo-client-socketclient
+ - lec-03-prg-05-tcp-echo-client-socketclient * 예제에는 없음
 
 Socket_1ToN
  - lec-03-prg-06-tcp-echo-server-multithread
- - lec-03-prg-05-tcp-echo-client-socketclient
+ - lec-03-prg-05-tcp-echo-client-socketclient * 예제에는 없음
 
 Socket_MToN
  - lec-03-prg-08-tcp-echo-server-multithread-chat
@@ -27,4 +27,4 @@ Socket_1ToN_UDP
 
 Socket_MToN_UDP
  - lec-03-prg-11-udp-echo-server-socketserver-chat
- - lec-03-prg-11-udp-echo-client-socketclient-chat
+ - lec-03-prg-11-udp-echo-client-socketclient-chat * 예제에는 
