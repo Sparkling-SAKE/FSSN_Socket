@@ -27,4 +27,4 @@ Socket_1ToN_UDP
 
 Socket_MToN_UDP
  - lec-03-prg-11-udp-echo-server-socketserver-chat
- - lec-03-prg-11-udp-echo-client-socketclient-chat * 예제에는 
+ - lec-03-prg-11-udp-echo-client-socketclient-chat * 예제에는 없음
