@@ -39,7 +39,6 @@ int main()
 		return 0;
 	}
 
-
 	// start
 	// backlog = 10
 	if (::listen(listenSocket, 10) == SOCKET_ERROR)
